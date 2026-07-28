@@ -58,17 +58,6 @@ https://github.com/YileinaPiFa/MTR-LCD-Viewer
 - 支持独立调试 LCD 脚本
 
 ---
-
-## 预览
-
-<p align="center">
-
-<img src="https://pan.ylnpf.cn/f/PMTq/84439a0bf49a602d728ab9ef6bb84ebf.png" width="800">
-
-</p>
-
----
-
 ## 使用环境
 
 | 项目 | 要求 |
