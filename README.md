@@ -46,16 +46,16 @@ https://github.com/YileinaPiFa/MTR-LCD-Viewer
 
 ## 功能特性
 
-- ✅ 加载 MTR LCD 资源包（ZIP）
-- ✅ 自动发现可渲染 LCD 内容
-- ✅ Java2D 高质量渲染
-- ✅ 支持 ANTE 脚本接口模拟
-- ✅ 支持资源包内图片、字体资源读取
-- ✅ 支持脚本日志输出
-- ✅ LCD 画面缩放与预览
-- ✅ 支持渲染结果导出
-- ✅ 内置测试环境
-- ✅ 支持独立调试 LCD 脚本
+- 加载 MTR LCD 资源包（ZIP）
+- 自动发现可渲染 LCD 内容
+- Java2D 高质量渲染
+- 支持 ANTE 脚本接口模拟
+- 支持资源包内图片、字体资源读取
+- 支持脚本日志输出
+- LCD 画面缩放与预览
+- 支持渲染结果导出
+- 内置测试环境
+- 支持独立调试 LCD 脚本
 
 ---
 
@@ -75,8 +75,8 @@ https://github.com/YileinaPiFa/MTR-LCD-Viewer
 | --- | --- |
 | 操作系统 | Windows 10 / Windows 11 |
 | Java | Java 17 或更高版本 |
-| 内存 | 512MB+ |
-| 架构 | x64 |
+| 内存 | 需＞加载的资源包大小 |
+| 架构 | x64/x86 amd/arm |
 
 ---
 
