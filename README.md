@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/github/license/YileinaPiFa/MTR-LCD-Viewer?style=flat-square">
 <img src="https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=openjdk">
-<img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows&Linux">
+<img src="https://img.shields.io/badge/Platform-Java%20GUI-blue?style=flat-square&logo=openjdk">
 
 </p>
 
@@ -73,10 +73,13 @@ https://github.com/YileinaPiFa/MTR-LCD-Viewer
 
 | 项目 | 要求 |
 | --- | --- |
-| 操作系统 | Windows 10 / Windows 11 |
 | Java | Java 17 或更高版本 |
 | 内存 | 需＞加载的资源包大小 |
 | 架构 | x64/x86 amd/arm |
+
+支持所有具有 Java GUI 运行环境的平台。
+
+不支持无头（Headless）运行环境。
 
 ---
 
@@ -236,18 +239,6 @@ build.bat
 ## License
 
 本项目采用 MIT License 开源。
-
-```
-MIT License
-
-Copyright (c) 2026 YileinaPiFa
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
 
 完整协议内容请查看：
 
