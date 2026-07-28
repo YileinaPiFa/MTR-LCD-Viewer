@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/github/license/YileinaPiFa/MTR-LCD-Viewer?style=flat-square">
 <img src="https://img.shields.io/badge/Java-17+-orange?style=flat-square&logo=openjdk">
-<img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows">
+<img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows&Linux">
 
 </p>
 
